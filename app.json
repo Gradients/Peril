@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "onlyForOrgMembers": false
+  },
+  "rules": {
+    "pull_request": "Gradients/peril-settings@org/aeryn.ts"
+  },
+  "repos": {
+  }
+}
